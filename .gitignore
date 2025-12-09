@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Upload folders
+uploads/
+public/uploads/
+
+# Cache
+.cache/
+
+# MySQL
+*.sql
